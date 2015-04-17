@@ -1,3 +1,10 @@
-ping pong pair programming the TDD fizzbuzz kata
+Building the counting game Fizzbuzz using
+* Test driven development
+* Ping pong pair programming
+* Ruby
+* RSpec
 
-https://www.youtube.com/watch?v=CHTep2zQVAc
+Guided by the tutorial here: https://www.youtube.com/watch?v=CHTep2zQVAc
+
+Andy's first pair programming
+Sara's second mentee pair programming
